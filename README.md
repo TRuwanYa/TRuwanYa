@@ -121,7 +121,9 @@ I am interested in both research and industry internship opportunities in AI/ML,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TRuwanYa&show_icons=true&hide_border=true&bg_color=032D25&title_color=D4AF37&text_color=F5E6B5&icon_color=D4AF37" alt="GitHub statistics" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TRuwanYa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=032D25&title_color=D4AF37&text_color=F5E6B5&icon_color=D4AF37" alt="GitHub statistics" width="48%" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRuwanYa&layout=compact&hide_border=true&bg_color=032D25&title_color=D4AF37&text_color=F5E6B5" alt="Repository languages" width="40%" />
 
